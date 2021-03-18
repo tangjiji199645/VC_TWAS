@@ -1,1 +1,3 @@
-# VC_TWAS_code
+# VC_TWAS
+summary stat output is under summary_stat
+
