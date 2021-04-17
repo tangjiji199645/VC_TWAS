@@ -1,0 +1,22 @@
+##
+## GEMMA Version = 0.95alpha
+##
+## Command Line Input = /home/stang/DPR/DPR -g /home/stang/tangji/VC_TWAS/simulation/dpr_test/data/train_dosage.txt -p /home/stang/tangji/VC_TWAS/simulation/dpr_test/data/expression_train.txt -a /home/stang/tangji/VC_TWAS/simulation/dpr_test/data/snp_annot.txt -dpr 1 -nk 2 -o DPR_weights 
+##
+## Date = Thu Mar 18 23:53:17 2021
+##
+## Summary Statistics:
+## number of total individuals = 300
+## number of analyzed individuals = 300
+## number of covariates = 1
+## number of phenotypes = 1
+## number of total SNPs = 1000
+## number of analyzed SNPs = 1000
+## number of the truncated normal distributions = 2
+## ELBO = -11622
+## estimated mean = -0.0846504
+##
+## Computation Time:
+## total computation time = 0.0104673 min 
+## computation time break down: 
+##
